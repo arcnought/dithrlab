@@ -1,6 +1,6 @@
 ![DITHRLAB](banner.png)
 
-> **dithRlab - Weapons-grade creative dithering workstation.**
+> **dithRlab // Weapons-grade creative dithering workstation.**
 
 ![DITHRLAB](hero.png)
 

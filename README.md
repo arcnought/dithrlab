@@ -138,4 +138,4 @@ Proprietary. See [LICENSE](LICENSE) for details.
 
 ---
 
-**Made with obsession.**
+**Min-maxing.**

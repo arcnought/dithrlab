@@ -58,6 +58,9 @@ Full-scene simulations that transform your image into something entirely differe
 - **Redacted Document** /classified document simulation with redaction bars, stamps, and paper aging (Pro)
 - **Datamosh** /frame corruption and glitch effects (Pro)
 
+![Special Effects Preview](sfx-preview.gif)
+*Special effect: Blueprint*
+
 ### Pre-Processing
 
 Dial in the look *before* dithering: brightness, contrast, blur, sharpen, gamma, noise, denoise, invert. Small adjustments here produce dramatically different results.

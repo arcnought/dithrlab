@@ -59,6 +59,7 @@ Full-scene simulations that transform your image into something entirely differe
 - **Datamosh** /frame corruption and glitch effects (Pro)
 
 ![Special Effects Preview](sfx-preview.gif)
+
 *Special effect: Blueprint*
 
 ### Pre-Processing
